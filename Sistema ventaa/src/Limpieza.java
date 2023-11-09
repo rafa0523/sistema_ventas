@@ -7,11 +7,6 @@
  *
  * @author Benjamin
  */
-public class Test {
-    
-    public static void main(String[] args) {
-        
-        System.out.println("Me cago en todo");
-    }
+public class Limpieza {
     
 }
